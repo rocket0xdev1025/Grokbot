@@ -210,7 +210,7 @@ var g = d(`arrow-down-to-line`, [
   },
   P = n(),
   te = [D, O, k, A, j],
-  F = `TBA`;
+  F = `0x55683371036401f8cae676c260efcde9be36a7f4`;
 function I() {
   let t = (0, E.useRef)(null),
     [n, r] = (0, E.useState)(),
@@ -549,7 +549,7 @@ function I() {
                       }),
                       (0, P.jsx)(`p`, {
                         className: `truncate font-display text-sm font-bold sm:text-base`,
-                        children: H ? `Copied!` : `T.B.A`,
+                        children: H ? `Copied!` : `0x55...a7f4`,
                       }),
                     ],
                   }),
