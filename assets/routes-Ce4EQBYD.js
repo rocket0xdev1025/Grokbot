@@ -330,9 +330,10 @@ function I() {
             href: `#top`,
             className: `flex min-h-11 min-w-0 items-center gap-2 font-display text-base font-bold sm:text-xl`,
             children: [
-              (0, P.jsx)(`span`, {
-                className: `flex size-9 shrink-0 rotate-3 items-center justify-center rounded-full border-2 border-foreground bg-foreground text-primary-foreground sm:size-10`,
-                children: `G`,
+              (0, P.jsx)(`img`, {
+                src: `/favicon.png`,
+                alt: ``,
+                className: `size-9 shrink-0 rotate-3 rounded-full border-2 border-foreground object-cover sm:size-10`,
               }),
               (0, P.jsxs)(`span`, {
                 className: `truncate`,
