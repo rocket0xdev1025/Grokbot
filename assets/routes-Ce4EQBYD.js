@@ -1124,12 +1124,12 @@ function I() {
             children: `Made for fun. No promises, just adorable PFPs.`,
           }),
           (0, P.jsxs)(`a`, {
-            href: `https://x.com/its_phobia`,
+            href: `https://x.com/GrokificationX`,
             target: `_blank`,
             rel: `noreferrer`,
             onPointerDown: Q,
             onClick: (e) => {
-              Q(), Z(`https://x.com/its_phobia`)(e);
+              Q(), Z(`https://x.com/GrokificationX`)(e);
             },
             className: `group relative inline-flex min-h-11 cursor-pointer select-none items-center gap-2 rounded-full border-2 border-border bg-card px-4 py-2.5 shadow-cloud transition-transform duration-200 hover:-translate-y-0.5 hover:rotate-[-1deg] active:scale-95 ${
               W ? `credit-boing` : ``
@@ -1168,10 +1168,10 @@ function I() {
               (0, P.jsxs)(`span`, {
                 className: `font-display text-xs font-bold sm:text-sm`,
                 children: [
-                  `Website by `,
+                  `Follow `,
                   (0, P.jsx)(`span`, {
                     className: `text-primary`,
-                    children: `Phobia`,
+                    children: `@GrokificationX`,
                   }),
                 ],
               }),
